@@ -3,7 +3,7 @@ The bare minimum to start and deploy "something" on netlify.
 
 # On Netlify
 
-## Site Configuration/Build&Deploy/Continuous deployment/Build Settings:
+- ./Site Configuration/Build&Deploy/Continuous deployment/Build Settings:
 
 | Settings: | Status: |
 |:-|:-|
