@@ -2,6 +2,7 @@
 The bare minimum to start and deploy "something" on netlify.
 
 # On Netlify
+We're going to use Netlify to build everything.
 
 - ./Site Configuration/Build&Deploy/Continuous deployment/Build Settings:
 
