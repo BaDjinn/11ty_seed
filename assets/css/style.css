@@ -1,0 +1,59 @@
+/*Change as needed*/
+body {
+    font-family: fantasy;
+    margin: 0 auto;
+    padding: 10% 2rem;
+    width: 80%;
+    box-sizing: border-box;  
+    background-color: antiquewhite;
+  }
+  
+  h1 {
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+    font-size: 4rem;
+  }
+  
+  .content {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:justify;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto; /* Centra le immagini */
+  }
+  
+  
+  footer {
+    padding: 20px;
+    text-align: center;
+    font-size: small;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    body {
+      padding: 5% 1rem; 
+      width: 100%; 
+    }
+    
+    h1 {
+      font-size: 24px;
+    }
+    
+    img {
+      width: 80%; 
+    }
+  }
+  
+
+  @media only screen and (min-width: 769px) {
+    body {
+      padding: 10% 2rem;
+      width: 80%; 
+    }
+    
+    img {
+      width: 80%; 
+    }
+  }
