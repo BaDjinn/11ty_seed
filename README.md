@@ -7,6 +7,7 @@ Souces from:
 
 # On Netlify
 We're going to use Netlify to build everything.
+(Included the netlify.toml for the same purpose.)
 
 - ./Site Configuration/Build&Deploy/Continuous deployment/Build Settings:
 
